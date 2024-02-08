@@ -44,7 +44,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>App development</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Leveraging cutting-edge technology, our agency specializes in app development. We design and code user-centric, innovative applications, ensuring seamless functionality and an exceptional user experience for optimal business impact</p>
                     <Link href={'/services/app-dev'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -60,7 +60,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>UI/UX development</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency excels in UI/UX development, creating visually captivating designs that enhance user experiences. With a focus on aesthetics and functionality, we ensure your digital presence resonates with excellence</p>
                     <Link href={'/services/ui-ux'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -77,7 +77,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>BPO</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency optimizes business processes through BPO services. With efficiency and expertise, we handle tasks like customer support and data management, enabling you to focus on core functions</p>
                     <Link href={'/services/app-dev'}>
                         <button>Let&apos;s Go</button>
                     </Link>
