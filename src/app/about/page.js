@@ -26,7 +26,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Website development</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency excels in website development, blending creativity and functionality seamlessly. With a skilled team, we craft responsive, visually stunning websites that elevate your online presence and drive results </p>
                     <Link href='/services/web-dev'>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -44,7 +44,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>App development</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Leveraging cutting-edge technology, our agency specializes in app development. We design and code user-centric, innovative applications, ensuring seamless functionality and an exceptional user experience for optimal business impact</p>
                     <Link href={'/services/app-dev'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -60,7 +60,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>UI/UX development</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency excels in UI/UX development, creating visually captivating designs that enhance user experiences. With a focus on aesthetics and functionality, we ensure your digital presence resonates with excellence</p>
                     <Link href={'/services/ui-ux'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -77,7 +77,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>BPO</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency optimizes business processes through BPO services. With efficiency and expertise, we handle tasks like customer support and data management, enabling you to focus on core functions</p>
                     <Link href={'/services/app-dev'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -94,7 +94,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Digital Marketing</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency pioneers digital marketing strategies, driving brand visibility and engagement. From SEO to social media, we tailor campaigns for success, ensuring your online presence leaves a lasting impact</p>
                     <Link href={'/services/digital-marketing'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -111,7 +111,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Ad shooting and photography</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency specializes in ad shooting and photography, crafting visually compelling narratives that captivate audiences. From concept to execution, we bring your brand's story to life with impactful imagery</p>
                     <Link href={'/services/adshooting-photography'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -126,7 +126,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Blockchain</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency excels in blockchain solutions, leveraging cutting-edge technology for secure and transparent transactions. We specialize in creating robust and innovative blockchain applications tailored to your business needs.</p>
                     <Link href={'/trends/blockchain'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -141,7 +141,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>AI/ML</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency pioneers artificial intelligence solutions, harnessing the power of AI to transform businesses. From machine learning to automation, we deliver innovative AI applications that elevate performance and efficiency</p>
                     <Link href={'/trends/ai-ml'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -156,7 +156,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>AR/VR/MR</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency leads in AR/VR/MR development, shaping immersive experiences that transcend reality. With cutting-edge technology, we craft innovative solutions to elevate engagement and redefine user interaction</p>
                     <Link href={'/3dtech/ar-vr-mr'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -171,7 +171,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Immersive Audio</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency specializes in immersive audio solutions, delivering a sensory-rich experience. With advanced sound technology, we create audio environments that enhance engagement and redefine the way audiences perceive content</p>
                     <Link href={'/3dtech/immersive-audio'}>
                         <button>Let&apos;s Go</button>
                     </Link>
