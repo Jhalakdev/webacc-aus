@@ -26,7 +26,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Website development</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency excels in website development, blending creativity and functionality seamlessly. With a skilled team, we craft responsive, visually stunning websites that elevate your online presence and drive results</p>
                     <Link href='/services/web-dev'>
                         <button>Let&apos;s Go</button>
                     </Link>
