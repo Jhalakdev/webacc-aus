@@ -74,7 +74,7 @@ export default function Plans() {
                     a: 'AUD 200 / Year',
                 },
                 {
-                    $: true,
+                    $: false,
                     a: 'SEO',
                 },
 
