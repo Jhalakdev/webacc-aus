@@ -142,7 +142,7 @@ export default function Footer({ customstyle }) {
             <br /> ghav ghavhghghga hgagh
           </p>
           <a style={style} href="/contact">
-            webaccuracy@gmail.com
+            joseph@webaccuracy.com
           </a>
           <br />
           <a style={style} href="/contact">
