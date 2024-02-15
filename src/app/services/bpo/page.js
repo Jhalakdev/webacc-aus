@@ -51,7 +51,7 @@ export default function Page() {
                 <text>
                     <h2>Welcome
                         to the premier destination for
-                        Digital Marketing and Marketers in <span>Ranchi</span>!</h2>
+                        Digital Marketing and Marketers in <span>Sydney</span>!</h2>
                     <button><span>Start Now</span></button>
                 </text>
             </section>
