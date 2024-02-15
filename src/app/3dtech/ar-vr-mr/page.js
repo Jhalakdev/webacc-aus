@@ -139,7 +139,7 @@ export default function Page() {
           <div className={arvrmrcss.container1 + " " + arvrmrcss.container}>
             <img id="backimg" src="/vr-people.jpg" />
             <div className={arvrmrcss.text}>
-              <h1>AR VR MR Services in Ranchi</h1>
+              <h1>AR VR MR Services in sydney</h1>
               <p>
                 Web Accuracy provides cutting-edge technology solutions tailored for your business needs.
 
