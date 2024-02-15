@@ -31,11 +31,11 @@ export default function Plans() {
                     a: 'Linux Hosting',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'AUD 200/ Year',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'SEO',
                 },
 
@@ -70,7 +70,7 @@ export default function Plans() {
                     a: 'Powerful Linux Server',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'AUD 200 / Year',
                 },
                 {
@@ -109,11 +109,11 @@ export default function Plans() {
                     a: 'Powerful Linux Server',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'AUD 300 / Year (Lifetime Service)',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'SEO',
                 },
 
@@ -150,7 +150,7 @@ export default function Plans() {
                     a: 'Unlimited Mysqli',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'AUD 400 / Year (Service)',
                 },
 
@@ -184,7 +184,7 @@ export default function Plans() {
                     a: 'Unlimited Mysqli',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'AUD 1,200 / Year (Service)',
                 },
 
@@ -218,7 +218,7 @@ export default function Plans() {
                     a: 'Unlimited Mysqli',
                 },
                 {
-                    $: true,
+                    $: False,
                     a: 'AUD 1500 / Year (Lifetime Service)',
                 },
 
@@ -264,7 +264,7 @@ export default function Plans() {
 
                         <div className={plancss.features}>
                             {el.features.map(function (elel, index) {
-                                if (elel.$ === true) {
+                                if (elel.$ === False) {
                                     return <p key={index}>&#8377; {elel.a}</p>
                                 }
                                 return <p key={index}>{elel.a}</p>
@@ -287,7 +287,7 @@ export default function Plans() {
                         </div>
                         <div className={plancss.features}>
                             {el.features.map(function (elel, index) {
-                                if (elel.$ === true) {
+                                if (elel.$ === False) {
                                     return <p key={index}>&#8377; {elel.a}</p>
                                 }
                                 return <p key={index}>{elel.a}</p>
