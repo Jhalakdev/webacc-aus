@@ -10,7 +10,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/web-development.png',
             name: 'Website Development',
-            desc: 'Website + Hosting + email @ Just AUD 499 Get Your Firm On The Web With a Beautiful Website And Feel The Power in Online, Attract new Customers Who Need You.',
+            desc: 'Website + Hosting + email @ Just $ 499 AUD Get Your Firm On The Web With a Beautiful Website And Feel The Power in Online, Attract new Customers Who Need You.',
         },
 
         {
