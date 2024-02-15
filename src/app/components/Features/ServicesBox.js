@@ -21,7 +21,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/graphic-designing.png',
             name: 'Graphic Designing',
-            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q',
+            desc: 'Elevate your brand with our graphic design expertise! We create impactful visuals tailored to your business, delivering compelling designs that leave a lasting impression.',
         },
         {
             id: 3,
@@ -31,7 +31,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/digital-marketing.png',
             name: 'Digital Marketing',
-            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui',
+            desc: 'Boost your business with our digital marketing prowess! From strategic campaigns to social media mastery, we drive results to enhance your online presence and engagement.',
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/seo-content-writing.png',
             name: 'SEO & Content Writing',
-            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, .',
+            desc: 'Ignite your online presence with our SEO and content writing services! Elevate your websites visibility and captivate your audience with compelling, search-optimized content. ',
         },
         {
             id: 5,
@@ -51,7 +51,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/app-development.png',
             name: 'App Development',
-            desc: 'Build Your Real Life Android App in not more than 10 days and get free app hosting on google play store. We Will Love To Work on Your Concept!',
+            desc: 'Transform your ideas into reality with our app development expertise! We craft user-friendly, innovative apps tailored to your needs. Elevate your business in the digital realm with us.',
         },
         {
             id: 6,
@@ -61,7 +61,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/tripod.svg',
             name: 'Product Photography',
-            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, .',
+            desc: 'Capture excellence with our product photography services! We bring your products to life through stunning visuals, highlighting their unique features.',
         },
         {
             id: 7,
@@ -71,7 +71,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/developer-support.png',
             name: 'Developer Support',
-            desc: 'We Support your IT project seamlessly, Create your project and get developer support 24*7 . We will love to hear your developing concept .',
+            desc: 'Empower your projects with our developer support services! We offer expert assistance, troubleshooting, and guidance, ensuring smooth development processes.',
         },
         {
             id: 8,
@@ -81,7 +81,7 @@ export default function ServicesBox() {
             },
             imagesrc: '/tv-advertisement.png',
             name: 'AD Shooting & photography',
-            desc: 'We Support your IT project seamlessly, Create your project and get developer support 24*7 . We will love to hear your developing concept .',
+            desc: 'Unleash the power of visuals with our ad shooting and videography editing services! We create captivating content that tells your story, leaving a lasting impact.',
         },
 
     ]
