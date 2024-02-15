@@ -48,8 +48,8 @@ export default function WebDevPage() {
 
                     <div className={webcss.text}>
 
-                        <h1 >Website Developers <br /> in Ranchi</h1>
-                        <p >Unlock the Digital Potential of Your Ideas with Expert Website Developers and Designers in Ranchi!</p>
+                        <h1 >Website Developers <br /> in Sydney</h1>
+                        <p >Unlock the Digital Potential of Your Ideas with Expert Website Developers and Designers in Sydney!</p>
                     </div>
                     <div className={webcss.rectcontainer}>
 
@@ -58,7 +58,7 @@ export default function WebDevPage() {
                             <img className={webcss.image1} src='https://uploads-ssl.webflow.com/643cf94fbda65134c5d3cc54/64400ef540315397c64f31eb_Big_CartoonMac%20(1).png' />
                         </div>
                     </div>
-                    <p className={webcss.leadingp}>Welcome to Web Accuracy, your premier destination for cutting-edge website development and design services in Ranchi. Our skilled team of developers and designers is dedicated to turning your visions into stunning and functional online experiences.</p>
+                    <p className={webcss.leadingp}>Welcome to Web Accuracy, your premier destination for cutting-edge website development and design services in Sydney. Our skilled team of developers and designers is dedicated to turning your visions into stunning and functional online experiences.</p>
                 </section>
                 <section className={webcss.section2}>
                     <div className={webcss.imagesContainer}>
