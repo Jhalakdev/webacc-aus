@@ -21,7 +21,7 @@ export default function Blockchain() {
                     </h1>
                 </text>
                 <div className={blockcss.middleText}>
-                    <p>Welcome to Ranchi&apos;s Leading Web 3.0 and Blockchain Experts: Discover cutting-edge solutions at the forefront of technology with our team of skilled designers and developers in Ranchi.
+                    <p>Welcome to Sydney&apos;s Leading Web 3.0 and Blockchain Experts: Discover cutting-edge solutions at the forefront of technology with our team of skilled designers and developers in Sydney.
                     </p>
                     <button>Let&apos;s Connect</button>
                 </div>
