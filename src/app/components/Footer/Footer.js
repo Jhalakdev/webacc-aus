@@ -138,8 +138,8 @@ export default function Footer({ customstyle }) {
           </div>
           <p style={style}>
             For prompt assistance, reach out to our <br />
-            yguy fty dty ytdt gvagi vigaigvagi havgavigv agh
-            <br /> ghav ghavhghghga hgagh
+            dedicated support team via 
+            <br /> email at
           </p>
           <a style={style} href="/contact">
             joseph@webaccuracy.com
