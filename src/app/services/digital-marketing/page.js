@@ -20,7 +20,7 @@ export default function DigitalMarketing() {
                 <div className={digitalcss.text}>
                     <p>Welcome <br /> to the premier destination for
                         <br />
-                        Digital Marketing and Marketers in Ranchi!</p>
+                        Digital Marketing and Marketers in Sydney!</p>
                     <div className={digitalcss.buttondiv + ' ' + digitalcss.sec1button}>
                         <button><span>Get a free consultation</span></button>
                     </div>
