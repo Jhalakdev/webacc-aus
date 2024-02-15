@@ -2,8 +2,8 @@
 import Image from 'next/image'
 import './globals.css'
 export const metadata = {
-  title: 'Website Designers in Ranchi',
-  description: 'Are you in pursuit of visionary web designers and developers in Ranchi. Embark on the Future of Website Development with Seasoned Developers in Ranchi!',
+  title: 'Website Designers in Sydney',
+  description: 'Are you in pursuit of visionary web designers and developers in Sydney. Embark on the Future of Website Development with Seasoned Developers in Sydney!',
 }
 import { gsap } from 'gsap/dist/gsap'
 import { ScrollTrigger } from 'gsap/dist/ScrollTrigger';
