@@ -19,7 +19,7 @@ export default function UIUX() {
                     <h1>Premium
                         <span>UI/UX</span>
                         <br />
-                        Designers in Ranchi.</h1>
+                        Designers in Sydney.</h1>
                     <p>At Web Accuracy, we specialize in creating stunning and intuitive user experiences that leave a lasting impression.</p>
                     <button>Get in touch</button>
                 </div>
