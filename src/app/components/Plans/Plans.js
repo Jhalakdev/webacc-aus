@@ -5,7 +5,7 @@ export default function Plans() {
         {
             imgsrc: '/web.png',
             plan: 'Business Startup',
-            price: '7,200/-',
+            price: 'AUD 500/-',
             features: [
 
 
@@ -32,7 +32,7 @@ export default function Plans() {
                 },
                 {
                     rup: true,
-                    a: '600 / Year',
+                    a: 'AUD 200/ Year',
                 },
                 {
                     rup: true,
@@ -44,7 +44,7 @@ export default function Plans() {
         {
             imgsrc: '/cube1.png',
             plan: 'Business Pro',
-            price: '12,999/-',
+            price: 'AUD 850/-',
             features: [
 
 
@@ -71,7 +71,7 @@ export default function Plans() {
                 },
                 {
                     rup: true,
-                    a: '300 / Year',
+                    a: 'AUD 200 / Year',
                 },
                 {
                     rup: true,
@@ -83,7 +83,7 @@ export default function Plans() {
         {
             imgsrc: '/pyramid.png',
             plan: 'Go Premium',
-            price: '23,999/-',
+            price: 'AUD 1100/-',
             features: [
 
 
@@ -110,7 +110,7 @@ export default function Plans() {
                 },
                 {
                     rup: true,
-                    a: '0 / Year (Lifetime Service)',
+                    a: 'AUD 300 / Year (Lifetime Service)',
                 },
                 {
                     rup: true,
@@ -125,7 +125,7 @@ export default function Plans() {
         {
             imgsrc: '/cube.png',
             plan: 'Business Startup',
-            price: '14,999/-',
+            price: 'AUD 3000/-',
             features: [
                 {
                     a: 'Hybrid Html5 App',
@@ -151,7 +151,7 @@ export default function Plans() {
                 },
                 {
                     rup: true,
-                    a: '1500 / Year (Service)',
+                    a: 'AUD 400 / Year (Service)',
                 },
 
             ]
@@ -159,7 +159,7 @@ export default function Plans() {
         {
             imgsrc: '/octahedron.png',
             plan: 'Business Pro',
-            price: '27,999/-',
+            price: 'AUD 5500/-',
             features: [
                 {
                     a: 'Hybrid Html5 + Native App',
@@ -185,7 +185,7 @@ export default function Plans() {
                 },
                 {
                     rup: true,
-                    a: '1,200 / Year (Service)',
+                    a: 'AUD 1,200 / Year (Service)',
                 },
 
             ]
@@ -193,7 +193,7 @@ export default function Plans() {
         {
             imgsrc: '/octahedron1.png',
             plan: 'Go Premium',
-            price: '49,999/-',
+            price: 'AUD 9,999/-',
             features: [
                 {
                     a: 'Fully Native App',
@@ -219,7 +219,7 @@ export default function Plans() {
                 },
                 {
                     rup: true,
-                    a: '0 / Year (Lifetime Service)',
+                    a: 'AUD 1500 / Year (Lifetime Service)',
                 },
 
             ]
