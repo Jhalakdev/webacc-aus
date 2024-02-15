@@ -94,7 +94,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Digital Marketing</h2>
-                    <p>Our agency pioneers digital marketing strategies, driving brand visibility and engagement. From SEO to social media, we tailor campaigns for success, ensuring your online presence leaves a lasting impact</p>
+                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
                     <Link href={'/services/digital-marketing'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -111,7 +111,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Ad shooting and photography</h2>
-                    <p>Our agency specializes in ad shooting and photography, crafting visually compelling narratives that captivate audiences. From concept to execution, we bring your brand's story to life with impactful imagery</p>
+                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
                     <Link href={'/services/adshooting-photography'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -126,7 +126,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Blockchain</h2>
-                    <p>Our agency excels in blockchain solutions, leveraging cutting-edge technology for secure and transparent transactions. We specialize in creating robust and innovative blockchain applications tailored to your business needs</p>
+                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
                     <Link href={'/trends/blockchain'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -141,7 +141,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>AI/ML</h2>
-                    <p>Our agency pioneers artificial intelligence solutions, harnessing the power of AI to transform businesses. From machine learning to automation, we deliver innovative AI applications that elevate performance and efficiency</p>
+                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
                     <Link href={'/trends/ai-ml'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -156,7 +156,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>AR/VR/MR</h2>
-                    <p>Our agency leads in AR/VR/MR development, shaping immersive experiences that transcend reality. With cutting-edge technology, we craft innovative solutions to elevate engagement and redefine user interaction</p>
+                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
                     <Link href={'/3dtech/ar-vr-mr'}>
                         <button>Let&apos;s Go</button>
                     </Link>
@@ -171,7 +171,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Immersive Audio</h2>
-                    <p>Our agency specializes in immersive audio solutions, delivering a sensory-rich experience. With advanced sound technology, we create audio environments that enhance engagement and redefine the way audiences perceive content</p>
+                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
                     <Link href={'/3dtech/immersive-audio'}>
                         <button>Let&apos;s Go</button>
                     </Link>
