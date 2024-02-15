@@ -137,7 +137,7 @@ export default function Footer({ customstyle }) {
             />
           </div>
           <p style={style}>
-            lorem iu ia ougf hah hvi igav gha i <br />
+            For prompt assistance, reach out to our <br />
             yguy fty dty ytdt gvagi vigaigvagi havgavigv agh
             <br /> ghav ghavhghghga hgagh
           </p>
