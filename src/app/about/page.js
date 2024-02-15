@@ -111,7 +111,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Ad shooting and photography</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency specializes in ad shooting and photography, crafting visually compelling narratives that captivate audiences. From concept to execution, we bring your brand's story to life with impactful imagery</p>
                     <Link href={'/services/adshooting-photography'}>
                         <button>Let&apos;s Go</button>
                     </Link>
