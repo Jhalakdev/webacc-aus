@@ -94,7 +94,7 @@ export default function AboutPage() {
                 <div className={aboutcss.textWrapper}>
 
                     <h2>Digital Marketing</h2>
-                    <p>lorem isufhai fugf uasdfgofhau sfgf yasdgfufyadgfuoa sguydvsfusadakydgfyud suyf ads dgds sdvjhdfljds s fsdh dsfsdvfj sdfhgds fgsdf iuhfs hfsdf idfgd sifsd gfisdf sdiusdhfi sdhfihsf isdfh uisdbhiuf sdi</p>
+                    <p>Our agency pioneers digital marketing strategies, driving brand visibility and engagement. from SEO to social media, we tailor campaigns for success, ensuring your online presence leaves a lasting impact.</p>
                     <Link href={'/services/digital-marketing'}>
                         <button>Let&apos;s Go</button>
                     </Link>
